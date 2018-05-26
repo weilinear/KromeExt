@@ -1,4 +1,4 @@
 KromeExt
 ========
 
-Chrome extensions that makes web navigation productive. Extensions from Kuantkid.
+Chrome extensions that makes web navigation productive. Extensions from weilinear.
